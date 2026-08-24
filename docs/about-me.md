@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 👩‍💻 Sobre mí
+# 👨🏻‍🏫 Sobre mí
 
 ## 👤 Quién Soy
 
