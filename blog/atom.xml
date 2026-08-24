@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dimasx010.github.io/docu-devmas/blog</id>
-    <title>DevMas Blog</title>
+    <title>Dimas Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dimasx010.github.io/docu-devmas/blog"/>
-    <subtitle>DevMas Blog</subtitle>
+    <subtitle>Dimas Blog</subtitle>
     <icon>https://dimasx010.github.io/docu-devmas/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
