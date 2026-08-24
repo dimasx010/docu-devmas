@@ -4,9 +4,7 @@ sidebar_position: 2
 
 # 👨🏻‍🏫 Sobre mí
 
-## 👤 Quién Soy
-
-Soy **Dimas Gómez**, Ingeniero de Sistemas con experiencia en tecnología, infraestructura, operaciones y confiabilidad de plataformas.
+Soy **Dimas Gómez**, Ingeniero de Sistemas con mas de 9 años de experiencia en tecnología, infraestructura, operaciones y confiabilidad de plataformas.
 
 Mi camino profesional comenzó cerca de los sistemas y las personas: soporte técnico, administración de sistemas, redes, virtualización e infraestructura. Con el tiempo fui acercándome cada vez más al desarrollo de plataformas, la automatización, DevOps, DevSecOps y SRE.
 
@@ -28,7 +26,7 @@ Actualmente mi interés profesional está cada vez más orientado hacia la **ing
 
 ---
 
-## 🔥 Qué Me Mueve
+## ✨ Qué Me Mueve
 
 Me interesa resolver problemas reales.
 

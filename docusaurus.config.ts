@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'DevMas',
-  tagline: 'DevmMas are cool',
+  title: 'Dimas',
+  tagline: 'Dimas are cool',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -73,7 +73,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'DocuDevmas',
+      title: 'DocuDimas',
       logo: {
         alt: 'Devmas Logo',
         src: 'img/logo.svg',
