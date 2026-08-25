@@ -2,182 +2,97 @@
 sidebar_position: 2
 ---
 
-# 👨🏻‍🏫 Sobre mí
+# 👨🏻‍💻 Sobre mí
 
-Soy **Dimas Gómez**, Ingeniero de Sistemas con mas de 9 años de experiencia en tecnología, infraestructura, operaciones y confiabilidad de plataformas.
+Soy **Dimas Gómez**, Ingeniero de Sistemas con más de 9 años de experiencia en tecnología.
 
-Mi camino profesional comenzó cerca de los sistemas y las personas: soporte técnico, administración de sistemas, redes, virtualización e infraestructura. Con el tiempo fui acercándome cada vez más al desarrollo de plataformas, la automatización, DevOps, DevSecOps y SRE.
+Mi carrera comenzó como **desarrollador de software**, construyendo e implementando soluciones para problemas reales. Con el tiempo fui ampliando mi perspectiva hacia la automatización, DevOps, DevSecOps y las plataformas que permiten que el software pueda desarrollarse, desplegarse y evolucionar de manera confiable.
 
-Hoy mi interés va más allá de una herramienta o una tecnología concreta. Me interesa entender **cómo funcionan los sistemas, por qué están diseñados de determinada manera y cómo podemos hacerlos más simples, confiables y sostenibles**.
-
----
-
-## 🛣️ Mi Camino en Tecnología
-
-Comencé mi carrera trabajando directamente con usuarios, resolviendo problemas y entendiendo cómo la tecnología impacta en el trabajo cotidiano.
-
-Esa experiencia me llevó hacia la administración de sistemas Linux y Windows, redes, virtualización y servicios de infraestructura.
-
-Con el tiempo evolucioné hacia prácticas DevOps y SRE, trabajando con automatización, integración y despliegue continuo, observabilidad, seguridad y confiabilidad.
-
-He trabajado en diferentes entornos y organizaciones, pasando por roles de **DevOps Engineer, Senior DevOps Engineer y DevSecOps Mentor**.
-
-Actualmente mi interés profesional está cada vez más orientado hacia la **ingeniería de plataformas, arquitectura, diseño de sistemas y liderazgo técnico**.
+Hoy me interesan especialmente la **arquitectura, el diseño de sistemas y Platform Engineering**, pero mantengo una perspectiva muy cercana al desarrollo: entender el problema, construir una solución y aprender de ella.
 
 ---
 
-## ✨ Qué Me Mueve
+## 💼 Mi recorrido
 
-Me interesa resolver problemas reales.
+He pasado por diferentes etapas como **desarrollador de software, DevOps Engineer, Senior DevOps Engineer y DevSecOps Mentor**.
 
-No me motiva utilizar una tecnología simplemente porque sea nueva o popular. Prefiero entender primero **qué problema existe, qué restricciones tenemos y cuál es la solución más razonable**.
+Cada una amplió mi forma de entender la tecnología.
 
-Me gusta aprender, experimentar y cuestionar las decisiones técnicas.
+El desarrollo me enseñó a convertir necesidades en soluciones.
 
-También me interesa compartir conocimiento. Creo que una buena solución técnica no debería depender exclusivamente de quien la construyó; debe poder ser entendida, mantenida y evolucionada por otras personas.
+DevOps me permitió ampliar esa mirada hacia la forma en que el software se construye, entrega y mantiene.
 
----
+Con el tiempo, la automatización, la seguridad, la observabilidad y la confiabilidad se convirtieron en parte natural de esa misma visión.
 
-## 🧠 Mi Forma de Trabajar
-
-Intento comenzar por el problema y no por la herramienta.
-
-Antes de pensar en Kubernetes, Terraform, Docker, una nube determinada o cualquier otra tecnología, prefiero entender:
-
-- ¿Qué necesitamos resolver?
-- ¿Qué restricciones tenemos?
-- ¿Qué tan complejo debe ser realmente?
-- ¿Qué riesgos estamos aceptando?
-- ¿Cómo se va a operar y mantener?
-- ¿Qué ocurrirá cuando el sistema falle?
-
-Me gusta buscar el equilibrio entre **simplicidad, confiabilidad, seguridad y evolución**.
-
-Para mí, la ingeniería no consiste solamente en hacer que algo funcione. También consiste en entender **por qué funciona, cuánto cuesta mantenerlo y qué tan preparado está para cambiar**.
+Hoy intento unir todas esas experiencias para comprender los sistemas como un todo y tomar mejores decisiones sobre cómo construirlos.
 
 ---
 
-## 🎓 Lo Que Puedo Enseñarte
+## 🧠 Cómo pienso
 
-Una de las cosas que más disfruto es ayudar a otras personas a entender tecnología.
+Me gusta entender **cómo funcionan las cosas y las decisiones que hay detrás de ellas**.
 
-Puedo compartir conocimientos y experiencias relacionados con:
+Cuando aparece un problema, prefiero comenzar por entenderlo antes de pensar en una herramienta o tecnología.
 
-- DevOps y DevSecOps.
-- Cloud y arquitecturas cloud-native.
-- Docker y Kubernetes.
-- CI/CD.
-- Infraestructura como código.
-- Automatización.
-- Observabilidad.
-- Confiabilidad de plataformas.
-- Diseño y arquitectura de sistemas.
-- Pensamiento técnico y toma de decisiones.
+Considero las restricciones, las alternativas y el costo de cada decisión para buscar una solución que sea **simple, útil y proporcional al problema**.
 
-Pero, sobre todo, me interesa enseñar algo que considero más importante que una herramienta:
-
-> **Aprender a pensar antes de construir.**
-
----
-
-## 📘 Mi Experiencia y Aprendizajes
-
-Durante mi carrera he pasado por diferentes etapas de la tecnología: soporte, infraestructura, sistemas, operaciones, automatización, DevOps, seguridad y plataformas.
-
-He trabajado con tecnologías y herramientas como **AWS, Azure, Kubernetes, Docker, Terraform, Jenkins, GitLab, GitHub Actions, Ansible, Grafana, Prometheus, ELK y OpenTelemetry**, entre otras.
-
-También he trabajado con arquitecturas cloud-native, sistemas de alta concurrencia, automatización de infraestructura, pipelines de CI/CD, seguridad, observabilidad y soporte de incidentes.
-
-Uno de los mayores aprendizajes de este recorrido ha sido entender que **la tecnología cambia constantemente, pero los problemas fundamentales de ingeniería permanecen**.
-
-Las herramientas evolucionan. La capacidad de analizar, decidir y construir buenas soluciones sigue siendo esencial.
-
----
-
-## 🎯 Mis Áreas de Enfoque
-
-Actualmente mis principales áreas de interés son:
-
-- **Platform Engineering**
-- **DevOps / DevSecOps**
-- **Site Reliability Engineering**
-- **Cloud Architecture**
-- **System Design**
-- **Infrastructure as Code**
-- **Automation**
-- **Observability**
-- **Security**
-- **Technical Leadership**
-
-Mi objetivo no es acumular tecnologías, sino desarrollar cada vez más **criterio de ingeniería**.
-
----
-
-## 🏗️ Lo Que Me Gusta Construir
-
-Me gustan los sistemas que son capaces de hacer mucho sin convertirse en algo innecesariamente complicado.
-
-Me interesa construir plataformas y soluciones que permitan a los equipos desarrollar, desplegar y operar software de una manera más sencilla.
-
-Me gustan especialmente:
-
-- Las automatizaciones que eliminan trabajo repetitivo.
-- Las plataformas que simplifican la experiencia de desarrollo.
-- Los sistemas observables.
-- La infraestructura reproducible.
-- Las arquitecturas que pueden evolucionar.
-- Las soluciones simples que resuelven problemas complejos.
-
-Una buena arquitectura, para mí, no es la que tiene más componentes.
-
-Es la que **tiene los componentes necesarios para resolver el problema**.
-
----
-
-## 💡 Mi Filosofía en Software
-
-Creo que el software debería tener un propósito claro.
-
-No todo necesita ser distribuido, escalable globalmente, contenerizado o desplegado sobre Kubernetes.
-
-La arquitectura debe responder al problema y a las necesidades reales del sistema.
-
-Por eso intento mantener una idea presente en mis decisiones:
+No todo tiene que estar resuelto desde el primer intento. Prefiero **construir, observar, aprender y evolucionar**.
 
 > **La complejidad también es un costo.**
 
-Cada componente adicional, cada dependencia y cada decisión arquitectónica agrega algo que tendremos que entender, operar, mantener y eventualmente cambiar.
+---
 
-Construir bien también significa saber **qué no construir**.
+## 🤝 Como persona y profesional
+
+Me considero una persona **tranquila, curiosa y orientada a resolver problemas**.
+
+Me gusta escuchar diferentes puntos de vista y entender el contexto antes de tomar una decisión.
+
+Creo que una buena solución no depende únicamente de que sea técnicamente correcta. También debe considerar a las personas que la van a utilizar, mantener y evolucionar.
+
+No me interesa tener la razón por encima de encontrar una buena respuesta.
+
+Prefiero **conversar, explicar, cuestionar y construir acuerdos**.
 
 ---
 
-## 🌱 Más Allá de la Tecnología
+## 🎯 Hacia dónde voy
 
-La tecnología es una parte importante de mi vida, pero no es toda mi identidad.
+Actualmente mi crecimiento está orientado hacia:
 
-También me interesan el aprendizaje continuo, la cultura general, la reflexión y descubrir nuevas formas de entender el mundo.
+- **Platform Engineering**
+- **Architecture & System Design**
+- **DevOps / DevSecOps**
+- **Automation**
+- **Reliability**
+- **Technical Leadership**
 
-Fuera de la tecnología disfruto actividades relacionadas con el movimiento y el contacto con el entorno, especialmente el ciclismo y el mar.
+Pero mi objetivo no es acumular tecnologías.
 
-Con el tiempo también he aprendido a valorar algo que considero fundamental:
-
-**no todo tiene que convertirse en productividad.**
-
-A veces aprender, caminar, observar, conversar o simplemente dejar que un día transcurra también forma parte del proceso.
+Quiero desarrollar cada vez más **criterio de ingeniería**: entender problemas, evaluar alternativas, tomar decisiones y construir soluciones que tengan sentido.
 
 ---
 
-## 🧭 En Construcción
+## 🎓 Lo que me gusta compartir
 
-Este perfil, al igual que mi carrera, no está terminado.
+Me gusta aprender, experimentar y compartir conocimiento.
 
-La tecnología seguirá cambiando y yo también.
+Disfruto especialmente ayudar a otras personas a entender no solamente **cómo funciona una tecnología**, sino también **cuándo tiene sentido utilizarla y cuándo no**.
 
-Por ahora, mi camino apunta hacia una combinación que cada vez me interesa más:
+Creo que aprender tecnología también significa aprender a cuestionar, simplificar y tomar decisiones.
 
-**Ingeniería + Arquitectura + Plataformas + Personas + Criterio.**
+> **Antes de pensar en cómo construir algo, hay que entender qué problema estamos intentando resolver.**
+
+---
+
+## 🧭 En construcción
+
+Sigo aprendiendo y evolucionando.
+
+Hoy mi camino se resume en una combinación que representa bastante bien hacia dónde quiero crecer:
+
+**Ingeniería + Software + Arquitectura + Plataformas + Personas + Criterio.**
 
 No se trata solamente de construir sistemas.
 
-Se trata de aprender a **diseñarlos, entenderlos, mejorarlos y ayudar a otros a construirlos mejor**.
+Se trata de **entender problemas, diseñar soluciones, aprender de lo construido y ayudar a otros a construir mejor**.
