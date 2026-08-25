@@ -1,7 +1,10 @@
 ---
+sidebar_position: 2
+---
+
 # 👨🏻‍💻 Sobre mí
 
-Soy **Dimas Gómez**, Ingeniero de Sistemas con más de 10 años de experiencia en tecnología.
+Soy **Dimas Gómez**, Ingeniero de Sistemas con más de 9 años de experiencia en tecnología.
 
 Mi carrera comenzó como **desarrollador de software**, construyendo e implementando soluciones para problemas reales. Con el tiempo fui ampliando mi perspectiva hacia la automatización, DevOps, DevSecOps y las plataformas que permiten que el software pueda desarrollarse, desplegarse y evolucionar de manera confiable.
 
@@ -57,12 +60,12 @@ Prefiero **conversar, explicar, cuestionar y construir acuerdos**.
 
 Actualmente mi crecimiento está orientado hacia:
 
-* **Platform Engineering**
-* **Architecture & System Design**
-* **DevOps / DevSecOps**
-* **Automation**
-* **Reliability**
-* **Technical Leadership**
+- **Platform Engineering**
+- **Architecture & System Design**
+- **DevOps / DevSecOps**
+- **Automation**
+- **Reliability**
+- **Technical Leadership**
 
 Pero mi objetivo no es acumular tecnologías.
 
