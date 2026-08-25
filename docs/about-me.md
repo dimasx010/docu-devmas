@@ -1,7 +1,4 @@
 ---
-
-## sidebar_position: 2
-
 # 👨🏻‍💻 Sobre mí
 
 Soy **Dimas Gómez**, Ingeniero de Sistemas con más de 10 años de experiencia en tecnología.
