@@ -106,7 +106,7 @@ const config: Config = {
           items: [
             {
               label: '📚 Documentación',
-              to: '/docs/intro',
+              to: '/docs/about-me',
             },
             /*
             {
